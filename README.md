@@ -43,6 +43,30 @@ The dataset contains sales transaction records including customer information, p
 - Detected revenue and profit patterns across sales records.
 - Generated recommendations to support business decision-making.
 
+
+## Key Visualizations
+
+### Monthly Sales Trend
+
+![Monthly Sales Trend](images/monthly_sales_trend.png)
+
+### Sales by Salesperson
+
+![Sales by Salesperson](images/sales_by_salesperson.png)
+
+### Sales by Priority
+
+![Sales by Priority](images/sales_by_priority.png)
+
+### Shipping Mode Distribution
+
+![Shipping Mode Distribution](images/shipping_mode_distribution.png)
+
+### Correlation Heatmap
+
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+
 ## Files
 
 * `report.pdf` – Complete project report and analysis
