@@ -52,11 +52,11 @@ The dataset contains sales transaction records including customer information, p
 
 ### Sales by Salesperson
 
-![Sales by Salesperson](images/sales_by_salesperson.png)
+![Sales by Salesperson](images/total_sales_by_salesperson.png)
 
 ### Sales by Priority
 
-![Sales by Priority](images/sales_by_priority.png)
+![Sales by Priority](images/total_sales_by_priority.png)
 
 ### Shipping Mode Distribution
 
